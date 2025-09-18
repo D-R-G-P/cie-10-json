@@ -1,4 +1,4 @@
-const cie10Data = {
+{
   "I": {
     "description": "Ciertas enfermedades infecciosas y parasitarias",
     "subgrupos": {
@@ -60012,4 +60012,4 @@ const cie10Data = {
       }
     }
   }
-};
+}
